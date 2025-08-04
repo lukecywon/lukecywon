@@ -2,7 +2,9 @@
 
 # 👋🏼 About Me
 I'm a Y2S2 Bachelor of Computer Science student at Monash University.
+
 Currently working on the [RateMyUnit](https://github.com/lukecywon/ratemyunit) project.
+
 Learning to use React.JS and FastAPI frameworks.
 
 ## 🌐 Socials
