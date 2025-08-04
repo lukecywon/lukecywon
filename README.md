@@ -39,7 +39,7 @@ Learning to use React.JS and FastAPI frameworks.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 # 📝 Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukecywon&show_icons=true&theme=swift))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukecywon&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukecywon)
 
