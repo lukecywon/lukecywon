@@ -1,5 +1,4 @@
 # About Me 👋🏼
----
 I'm a Y2S2 Bachelor of Computer Science student at Monash University.
 Currently working on the [RateMyUnit](https://github.com/lukecywon/ratemyunit) project.
 Learning to use React.JS and FastAPI frameworks.
@@ -8,8 +7,9 @@ Learning to use React.JS and FastAPI frameworks.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-## Tech Stack
 ---
+
+# Tech Stack
 ### Frameworks/Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -36,6 +36,7 @@ Learning to use React.JS and FastAPI frameworks.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lukecywon/lukecywon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
