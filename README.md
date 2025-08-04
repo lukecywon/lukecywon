@@ -43,6 +43,6 @@ Learning to use React.JS and FastAPI frameworks.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukecywon)
 
-![Luke's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=lukecywon&combine_all_yearly_contributions=true)
+![Luke's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=lukecywon&combine_all_yearly_contributions=true&limit=5)
 
 
