@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 👋🏼 About Me
 I'm a Y2S2 Bachelor of Computer Science student at Monash University.
 Currently working on the [RateMyUnit](https://github.com/lukecywon/ratemyunit) project.
@@ -35,21 +37,7 @@ Learning to use React.JS and FastAPI frameworks.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 # 📝 Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukecywon&show_icons=true&theme=swift))](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukecywon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukecywon&show_icons=true&theme=swift))
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukecywon)
 
-<!--
-**lukecywon/lukecywon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
