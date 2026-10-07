@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 # 👋🏼 About Me
-I'm a Y2S2 Bachelor of Computer Science student at Monash University.
+I'm a Y3S2 Bachelor of Computer Science student at Monash University.
 
 Currently working on the [RateMyUnit](https://github.com/lukecywon/ratemyunit) project.
 
